@@ -5,6 +5,7 @@ install_data(
   'singularity-aurora.svg',
   'singularity-epic.png',
   'singularity-grid.svg',
+  'singularity-loophole.jpg',
   'singularity-nebula.svg',
   'singularity-prospective.png',
   'singularity-topology.svg',
